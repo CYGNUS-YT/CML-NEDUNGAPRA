@@ -8,45 +8,42 @@
 	>
 
 <channel>
-	<title>Uncategorized Archives - Cherupushpa Mission League Nedungapra</title>
-	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description>Love, Renunciation, Service and Endurance</description>
-	<lastBuildDate>Sun, 30 Jan 2022 08:45:06 +0000</lastBuildDate>
+	<title>Uncategorized &#8211; CML Nedungapra</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 29 Mar 2022 14:54:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/01/cropped-241373457_2005009859668413_1235262862665366466_n-removebg-32x32.png</url>
-	<title>Uncategorized Archives - Cherupushpa Mission League Nedungapra</title>
-	<link>/</link>
+	<url>./../../../wp-content/uploads/2022/04/cropped-241373457_2005009859668413_1235262862665366466_n-removebg-192x192-1-150x150-1.png</url>
+	<title>Uncategorized &#8211; CML Nedungapra</title>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Cherupushpa Mission League (CML)</title>
-		<link>/2022/01/23/cherupushpa-mission-league-cml/</link>
-					<comments>/2022/01/23/cherupushpa-mission-league-cml/#comments</comments>
+		<title>Hello world!</title>
+		<link>./../../../2022/03/29/hello-world/index.html</link>
+					<comments>./../../../2022/03/29/hello-world/index.html#respond</comments>
 		
-		<dc:creator><![CDATA[CML NEDUNGAPRA]]></dc:creator>
-		<pubDate>Sun, 23 Jan 2022 10:07:28 +0000</pubDate>
+		<dc:creator><![CDATA[CML Nedungapra]]></dc:creator>
+		<pubDate>Tue, 29 Mar 2022 14:54:50 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">./../../../index.html?p=1</guid>
 
-					<description><![CDATA[<p>CherupushpaMission League (CML) is an indigenous pious organization for Catholic children, founded in 1947 at Bharanaganamin Kerala, the Lisieux of India. CML is working with St. Theresa of Lisieuxas its [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/2022/01/23/cherupushpa-mission-league-cml/">Cherupushpa Mission League (CML)</a> appeared first on <a rel="nofollow" href="/">Cherupushpa Mission League Nedungapra</a>.</p>
-]]></description>
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
-<p class="has-bbp-black-100-color has-text-color">CherupushpaMission League (CML) is an indigenous pious organization for Catholic children, founded in 1947 at Bharanaganamin Kerala, the Lisieux of India. CML is working with St. Theresa of Lisieuxas its heavenly patroness and St. Thomas, St. Francis Xavierand St. Alphonsaas its co- patrons Anchor and patroness. His Holiness Pope Leo XIII prophesied that salvation of India is in the hands of her children. Taking the words of Holy Father as the motto, this organization is meant for the lay apostolate in the various diocese of India and away in many foreign countries as well. This organization was started functioning in 1947 in Bharananganam by Rev. Fr.Joseph Maliparambiland sir. P.C. Abraham Pallattukunnel (Kunjettan) under the saintly leadership of His Excellency Mar. James Kalasserythe Bishop of Changanassery. CML was officially inaugurated by His Excellency Mar. Thomas Tharayil- bishop of Kottayamon 3rd Oct. 1947, at Bharananganam.</p>
-<p>The post <a rel="nofollow" href="/2022/01/23/cherupushpa-mission-league-cml/">Cherupushpa Mission League (CML)</a> appeared first on <a rel="nofollow" href="/">Cherupushpa Mission League Nedungapra</a>.</p>
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/01/23/cherupushpa-mission-league-cml/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+					<wfw:commentRss>./../../../2022/03/29/hello-world/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
