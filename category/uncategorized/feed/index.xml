@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; CML Nedungapra</title>
+	<title>Uncategorized Archives - CML Nedungapra</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
@@ -18,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 <image>
 	<url>./../../../wp-content/uploads/2022/04/cropped-241373457_2005009859668413_1235262862665366466_n-removebg-192x192-1-150x150-1.png</url>
-	<title>Uncategorized &#8211; CML Nedungapra</title>
+	<title>Uncategorized Archives - CML Nedungapra</title>
 	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
@@ -37,9 +37,12 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="./../../../2022/03/29/hello-world/index.html">Hello world!</a> appeared first on <a rel="nofollow" href="./../../../index.html">CML Nedungapra</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="./../../../2022/03/29/hello-world/index.html">Hello world!</a> appeared first on <a rel="nofollow" href="./../../../index.html">CML Nedungapra</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>./../../../2022/03/29/hello-world/feed/index.html</wfw:commentRss>
