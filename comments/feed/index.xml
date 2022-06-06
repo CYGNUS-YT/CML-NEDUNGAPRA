@@ -1,31 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
 	>
-
 <channel>
-	<title>Cherupushpa Mission League (CML) Nedungapra</title>
+	<title>
+	Comments for Cherupushpa Mission League (CML) Nedungapra	</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<link>./../../index.html</link>
 	<description></description>
 	<lastBuildDate>Mon, 06 Jun 2022 15:07:16 +0000</lastBuildDate>
-	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
-
-<image>
-	<url>./../wp-content/uploads/2022/04/cropped-241373457_2005009859668413_1235262862665366466_n-removebg-192x192-1-150x150-1.png</url>
-	<title>Cherupushpa Mission League (CML) Nedungapra</title>
-	<link>./../index.html</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
 </channel>
 </rss>
